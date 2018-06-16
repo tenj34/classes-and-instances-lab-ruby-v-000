@@ -1,6 +1,6 @@
 class dog
 end
 
-jack = dog.new
-chris = dog.new
-flour = dog.new
+fido = dog.new
+snoopy = dog.new
+lassie = dog.new
